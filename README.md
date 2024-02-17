@@ -1,0 +1,1 @@
+Developed an interactive dashboard to monitor and analyze online sales data utilizing Microsoft Power BI. Ensured accuracy and efficiency in tracking sales metrics for informed decision-making. Implemented effective data visualization techniques to enhance the presentation of insights. 
